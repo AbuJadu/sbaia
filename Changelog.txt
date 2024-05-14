@@ -1,4 +1,4 @@
-{ "Pink": { "update_code": "7", "reminder_time": "3", "update_version": "v63", "com.newhatsapp": "https://minalqalb2019.blogspot.com/2021/05/whatsapp-masha.html", "com.sabaya": "https://minalqalb2019.blogspot.com/2020/09/waitisab-sabayana.html", "update_message": " 
+{ "Gold": { "update_code": "7", "reminder_time": "3", "update_version": "v63", "com.newhatsapp": "https://minalqalb2019.blogspot.com/2021/05/whatsapp-masha.html", "com.sabaya": "https://minalqalb2019.blogspot.com/2020/09/waitisab-sabayana.html", "update_message": " 
 <p>Update Vتحديث « 63</p>
 <li>تحديث جديد ممتع</li>
 <li>يحتوي على العديد من المزايا الجديد الرائعة</li>
